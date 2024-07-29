@@ -1,15 +1,23 @@
 # Sentry-Tank
+
 C++ code for Project Sentry Tank
+
 Check https://www.hackster.io/user847445031/sentry-tank-ad2e8b for details of the project
 
+
 Two versions are provided. 
+
 First version 1.01 uses GET to take photos and display
+
 Second version 1.02 uses Socket Services for photos and uses selective refresh for photos to avoid flicker and delay
 
+
 Settings for WIFI as follows
-Final version 	0x0101   
+
 progId 		0x0151 
+
 SSID: 		STWS241106
+
 SSID Password:	pass1234
 OTA Password: 	pass1234 
 HOSTNAME:	http://sentrytank-ws
