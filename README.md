@@ -25,6 +25,10 @@ IPAddress:	http://172.15.6.1
 
 NetMask:	255.255.255.0
 
+YouTube Videos:
+https://youtu.be/8MvxrfYWuIo
+https://youtu.be/VJyIN1gbJXI
+
 
 
 References:
