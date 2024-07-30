@@ -11,12 +11,7 @@
  *
  * OTA - Over The Air is used for compiling and pushing the bin file to ESP 
  *
- * For OTA ElegantOTA is to be considered if the final application is on ESP 32
- * and would be running webserver. An example of this is in ESPCaptiveSSS as well
- * Details of ElegantOTA use the library by Ayush Sharma URL:
- *     https://github.com/ayushsharma82/ElegantOTA - 
- * ElegantOTA is always at localhost:/update. Needs further testing for ESP8266
- * Avoid OTA for ESP8266. Not reliable. Provided here since this will be converted to ESP32-cam
+ * Arduino OTA is used for this purpose
  *
  * For Telnet ESP Telnet by Lennart Hennigs is used. Details at:
  * https://github.com/LennartHennigs/ESPTelnet 
