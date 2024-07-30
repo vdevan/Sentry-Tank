@@ -1,0 +1,7 @@
+M = Luminence
+S = Speed
+U = Up Forward
+D = Down Backward
+R = Right
+L = Left
+B = Brakes
